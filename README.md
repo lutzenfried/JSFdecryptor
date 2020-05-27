@@ -1,2 +1,2 @@
 # JSFdecryptor
-JSF ViewState decryptor (WIP)
+JSF ViewState decryptor (WIP).
